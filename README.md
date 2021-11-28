@@ -11,3 +11,19 @@ A mid exam project using laravel framework by Cornelius Tantius (2301859650).
 5. Make a database called <ins>happybookstore<ins> or change it from <ins>.env<ins> and make the database.
 6. Run `php artisan migrate:fresh --seed` to migrate the database as well as the data.
 7. Run the app using using `php artisan serve`
+
+## Preview
+<table>
+  <tr>
+    <td><img alt="" src="/public/preview/1.png"></td>
+    <td><img alt="" src="/public/preview/2.png"></td>
+  </tr>
+  <tr>
+    <td><img alt="" src="/public/preview/3.png"></td>
+    <td><img alt="" src="/public/preview/4.png"></td>
+  </tr>
+  <tr>
+    <td><img alt="" src="/public/preview/5.png"></td>
+    <td><img alt="" src="/public/preview/6.png"></td>
+  </tr>
+</table>
