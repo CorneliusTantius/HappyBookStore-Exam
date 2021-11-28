@@ -12,6 +12,20 @@ A mid exam project using laravel framework by Cornelius Tantius (2301859650).
 6. Run `php artisan migrate:fresh --seed` to migrate the database as well as the data.
 7. Run the app using using `php artisan serve`
 
+## Components Utilized
+Couple core components utilized in this project are:
+- [Bootstrap](https://getbootstrap.com/) for UI 
+- Database using mysql.
+- Model (to provide table data mapping and eloquent relation).
+- Controller (to control the eloquent logic).
+- Pages -> php blade files for the core / content display. Those pages are:
+  - Home page.
+  - Home page (for categorized view because it is dynamically set).
+  - Details page (to show book details).
+  - Contact page.
+- Layout for core layouting that will be used at all view.
+- Components, for important components that will be reused.
+- Route for core web routing.
 ## Preview
 <table>
   <tr>
